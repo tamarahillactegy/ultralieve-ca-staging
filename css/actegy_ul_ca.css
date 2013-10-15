@@ -1,0 +1,88 @@
+/*****************************
+					General
+*****************************/
+.clr{height:0px;}
+.img-center{text-align: center; margin: 15px 0;}
+
+/*****************************
+						Home
+*****************************/
+.cms-home .main-hp-banner p.text-6 a{padding: 45px 0 40px 140px;}
+.cms-home .rejuvenation-purple{background-color:transparent; border:0; padding:0;}
+.cms-home .rejuvenation-purple h2{color:#704a9e;}
+.cms-home .rejuvenation-purple .rejuvenation-slide-img{border-color:#d4c8e2;}
+.rejuvenation-purple .inner{padding:40px 0 60px;}
+.centerButtons{text-align:center;}
+.painkillerNewBg{border-top:1px solid #a5def5; border-bottom:1px solid #a5def5; background:#f7fbfc url() no-repeat center top;}
+.painkillerNewBg .inner{padding:45px 0 60px;}
+.painkillerNewBg h2{color:#19a5dd;}
+
+/*****************************
+			Full Width Blocks
+*****************************/
+/* Removed becuase normal content using sheet was fullwidth as well. need to update class*/
+/*.page{width:100%; padding:0;}*/
+.page-inner{width:960px; margin:0 auto; text-align:left;}
+.full-width-block{padding: 30px 0;}
+.full-width-block.purple{border-top: 1px solid #c9b8de; border-bottom: 1px solid #c9b8de; background: #FEFCFE url() no-repeat center top;}
+.full-width-block.purple h2{font-weight: normal;}
+.full-width-block.purple h3{color: #676f73;margin-bottom: 20px;}
+
+/*****************************
+				End Blocks
+*****************************/
+.end-blocks{width:960px; margin:50px auto 40px;padding:0 10px;}
+.end-block{width:308px;margin-left:15px;float:left;text-align:center;}
+.end-block:first-child{margin-left:0px;}
+.end-block p{text-align: left; padding:10px;margin: 0;}
+
+/*****************************
+				How It Works
+*****************************/
+.cms-how-ultralieve-works .std-block{margin-bottom: 30px;}
+.cms-how-ultralieve-works .std-block .page-inner p{width:650px;}
+.cms-how-ultralieve-works .step{float:left; width:220px; text-align:center; margin-right:20px;}
+.cms-how-ultralieve-works .step:first-child{margin-left:10px;}
+.cms-how-ultralieve-works .step img{float:left; height:208px; width:220px; margin-bottom:10px;}
+.cms-how-ultralieve-works .full-width-block.purple h2{margin-bottom:0px;}
+
+/*****************************
+				Features
+*****************************/
+.feat-2col{
+	float:left;
+	width:440px;
+	margin: 0 40px 0 0;
+}
+.feat-2col h2{
+	font-size: 22px;
+	font-weight: normal;
+	line-height: 24px;
+	margin-bottom: 10px;
+}
+
+.feat-2col>img{
+	float: left;
+	height: 150px;
+}
+
+.feat-2col>div{
+	float: right;
+	width: 265px;
+}
+
+.feat-3col{width:308px;margin-left:15px;float:left;text-align:center;}
+.feat-3col:first-child{margin-left:0px;}
+
+.cms-ultralieve-features .img-center{text-align: center; margin: 20px 0 35px;}
+.cms-ultralieve-features .std-block{margin-bottom:40px;}
+
+/*****************************
+			Contraindications
+*****************************/
+.contra-list{width:630px;}
+
+/*****************************
+			Privacy Policy
+*****************************/
+ol.roman-list{list-style-type:lower-roman;}
